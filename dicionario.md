@@ -25,6 +25,14 @@ git revert recupera o commit anterior, mais isso fica no histórico - é melhor 
 
 git clone git@github.com:noemyppereira/noemy.git - vai clonar tudo do github de volta para o local, ai dei um cd noemy que é o nome do meu repositorio
 
+## Para trabalhar em colaboração
+- É ncessário convidar um colaborador pela plataforma GitHub, na aba __settings__ --> Collaborators
+- O colaborador receberá um email e deverá aceitar a colaboração
+- Após isso, podemos clonar o diretório e trabalhar normalmente com ele
+`git clone git@github.com:noemyppereira/noemy.git` 
+`git add`
+`git commit`
+`git push` 
 
 
 
