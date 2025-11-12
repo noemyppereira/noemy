@@ -34,6 +34,9 @@ git clone git@github.com:noemyppereira/noemy.git - vai clonar tudo do github de 
 `git commit`
 `git push` 
 
+fazer novamente o clone, git add, git commit, git push, git status
+para verificar git diff
+
 
 
 
