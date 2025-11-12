@@ -1,3 +1,12 @@
+## rotina
+git status
+git add <nome do arquivo>
+git commit -m "mensagem significativa"
+git push
+
+chegando o __status__ dos arquivos, add na staging area_, faz o _commit_ pra slavar na linha do tempo e faz o push para mandar para o Github
+
+
 ## dicionario de conceitos
 untracked é um arquivo que a gente nunca viu antes
 conceitos sobre histórico, que seria o comando commit
@@ -21,3 +30,4 @@ git log --abbrev-commit
 git diff para comparar os commit
 git push comando para passar para o online 
 git remote add oringing <ssh> para conectar com o site da githib
+git init é para começar um novo projeto
