@@ -23,7 +23,7 @@ git reset --hard HEAD~1 - para reverter um commit - pode perder todo o historico
 git revert recupera o commit anterior, mais isso fica no histórico - é melhor se vc se arrepender pode voltar atras
 
 
-git clone https://github.com/noemyppereira/noemy - vai clonar tudo do github de volta para o local, ai dei um cd noemy que é o nome do meu repositorio
+git clone git@github.com:noemyppereira/noemy.git - vai clonar tudo do github de volta para o local, ai dei um cd noemy que é o nome do meu repositorio
 
 
 
