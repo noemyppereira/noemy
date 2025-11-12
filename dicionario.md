@@ -3,6 +3,8 @@ git status
 git add <nome do arquivo>
 git commit -m "mensagem significativa"
 git push
+git diff HEAD~1 HEAD para vericar o que o colaborador modificou
+
 
 chegando o __status__ dos arquivos, add na staging area_, faz o _commit_ pra slavar na linha do tempo e faz o push para mandar para o Github
 
@@ -33,6 +35,9 @@ git clone git@github.com:noemyppereira/noemy.git - vai clonar tudo do github de 
 `git add`
 `git commit`
 `git push` 
+
+para receber git pull
+
 
 fazer novamente o clone, git add, git commit, git push, git status
 para verificar git diff
