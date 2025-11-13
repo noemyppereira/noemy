@@ -56,6 +56,12 @@ git push comando para passar para o online
 git remote add oringing <ssh> para conectar com o site da githib
 git init é para começar um novo projeto
 git pull ferramentas de sincronização 
+git branch --list check os branch, são linhas do tempo paralelas, q é como vc trabalhar em conj
+para criar um git banch vc git branch <nome do branch>
+echo "new text" >  arquivo1.txt - fiz um arquivo
+git checkout main - volta para o main 
+ git checkout NP_dicionariopart1 - volta para o branch q criei
+ faz um  git push dentro do branch - git push --set-upstream origin NP_dicionariopart1
 
 ## inicio do projeto de colaboração
 testando 123
