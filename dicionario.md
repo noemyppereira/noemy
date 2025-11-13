@@ -28,6 +28,8 @@ git revert recupera o commit anterior, mais isso fica no histórico - é melhor 
 git clone git@github.com:noemyppereira/noemy.git - vai clonar tudo do github de volta para o local, ai dei um cd noemy que é o nome do meu repositorio
 para entrar no repositorio da pessoa da um cd <nome da pasta>
 
+git tagging dar um nome para um commit  
+
 ## Para trabalhar em colaboração
 - É ncessário convidar um colaborador pela plataforma GitHub, na aba __settings__ --> Collaborators
 - O colaborador receberá um email e deverá aceitar a colaboração
@@ -47,6 +49,11 @@ para verificar git diff
 
 ## lista de comandos
 Q para sair
+git init começar um projeto
+git add <nome do documento> 
+git commit -m "colocar o que vc fez de modificações"
+git push para enviar para o github
+git status para verificar se está tudo salvo
 git log --abbrev-commit
 git diff para comparar os commit
 git push comando para passar para o online 
@@ -59,7 +66,9 @@ echo "new text" >  arquivo1.txt - fiz um arquivo
 git checkout main - volta para o main 
  git checkout NP_dicionariopart1 - volta para o branch q criei
  faz um  git push dentro do branch - git push --set-upstream origin NP_dicionariopart1git
-
+ls para verificar o q tem no diretorio
+echo "texto" > exemplo.md fazer file com escrita já dentro
+git branch --list --all para listar os branch ocultos
  git merge <branch name>
 no editor i=inserir o que quer escrever
 esc
