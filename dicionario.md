@@ -60,6 +60,8 @@ git checkout main - volta para o main
  git checkout NP_dicionariopart1 - volta para o branch q criei
  faz um  git push dentro do branch - git push --set-upstream origin NP_dicionariopart1git
 
+ git merge <branch name>
+
 
 ## inicio do projeto de colaboração
 o git branch será para criação de novas linhas do tempo
