@@ -54,3 +54,5 @@ git push comando para passar para o online
 git remote add oringing <ssh> para conectar com o site da githib
 git init é para começar um novo projeto
 git pull ferramentas de sincronização 
+
+## inicio do projeto de colaboração
