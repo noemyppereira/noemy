@@ -61,7 +61,10 @@ git checkout main - volta para o main
  faz um  git push dentro do branch - git push --set-upstream origin NP_dicionariopart1git
 
  git merge <branch name>
-123
+no editor i=inserir o que quer escrever
+esc
+:wq pra voltar
+:q =sair
 
 ## inicio do projeto de colaboração
 o git branch será para criação de novas linhas do tempo
