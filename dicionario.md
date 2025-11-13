@@ -58,4 +58,8 @@ git init é para começar um novo projeto
 git pull ferramentas de sincronização 
 
 ## inicio do projeto de colaboração
-testando 
+<<<<<<< HEAD
+testando 123
+=======
+Eu vou quebrar tudo!!!
+>>>>>>> ffb6772410a88842d1cbd27a25240500d1499842
